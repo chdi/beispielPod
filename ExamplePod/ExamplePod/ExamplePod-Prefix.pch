@@ -1,5 +1,5 @@
 //
-// Prefix header for all source files of the 'Hallo' target in the 'Hallo' project
+// Prefix header for all source files of the 'ExamplePod' target in the 'ExamplePod' project
 //
 
 #import <Availability.h>
